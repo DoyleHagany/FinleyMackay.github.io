@@ -1,0 +1,14 @@
+html{text-align:center;}
+html{background: Pink;
+	color: Navy;
+font-size: 24pt;}
+nav li { display: inline-block }
+nav li { border: 40px solid black }
+nav li { padding: 10px;
+		 margin: 5px;
+		 background: Lightblue }
+a { color: orange;
+	text-decoration: none }
+a:hover { color: MediumSlateBlue }
+H1{ background: MintCream;
+	color: orangered;

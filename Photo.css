@@ -1,0 +1,15 @@
+A{text-align: center}
+A { color: Magenta;
+text-decoration: none }
+A:hover { color:dimgrey}
+	p { font-size: 36pt }
+html{background: Blue;
+	color: rebeccapurple;
+font-size: 24pt;}
+nav li { display: inline-block }
+nav li { border: 40px solid black }
+nav li { padding: 10px;
+		 margin: 5px;
+		 background: Royalblue }
+UL{text-align: center}
+IMG{align-content: center}

@@ -1,0 +1,15 @@
+html{text-align:center;}
+html{background: Brown;
+	color: royalblue;
+font-size: 24pt;}
+UL{list-style-type: none}
+nav li { display: inline-block }
+nav li { border: 40px solid black }
+nav li { padding: 0px;
+		 margin: 5px;
+		 background: Grey }
+a { color: darkorange;
+	text-decoration: none }
+a:hover { color: mediumpurple}
+H1{ background: Red;
+	color: Black;

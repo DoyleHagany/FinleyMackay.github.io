@@ -1,0 +1,20 @@
+ body{ background: Green;
+	color: ivory;
+font-size: 24pt;}
+H1{ background: Red;
+	color: Navy;
+font-size: 36pt;}
+ html{text-align:center;}
+ul{list-style-type: none}
+a{font-size:24pt;}
+a{ color: Magenta;
+text-decoration: none }
+a:hover { color:orchid}
+a {text-align:center;}
+nav a{text-align: center}
+
+nav li { display: inline-block }
+nav li { border: 40px solid Blue }
+nav li { padding: 10px;
+		 margin: 5px;
+		 background: coral }
